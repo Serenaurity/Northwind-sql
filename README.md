@@ -52,20 +52,20 @@ Northwind-sql/
 │   ├── Northwind_ERD.png
 │   └── data_dictionary.md
 ├── queries/
-│   ├── 01_setup.sql
-│   ├── 02_data_profile.sql
-│   ├── 03_sales_overview.sql
-│   ├── 04_sales_by_country.sql
-│   ├── 05_monthly_sales_trend.sql
-│   ├── 06_top_customers.sql
-│   ├── 07_top_products.sql
-│   ├── 08_employee_performance.sql
-│   ├── 09_shipping_performance.sql
-│   ├── 10_inventory_data_quality.sql
-│   ├── 11_create_views.sql
-│   ├── 12_performance.sql
-│   ├── 13_data_dictionary.sql
-│   └── 14_actionable_insights.sql
+│   ├── 01 setup.sql
+│   ├── 02 data profile.sql
+│   ├── 03 sales overview.sql
+│   ├── 04 sales by country.sql
+│   ├── 05 monthly sales trend.sql
+│   ├── 06 top customers.sql
+│   ├── 07 top products.sql
+│   ├── 08 employee performance.sql
+│   ├── 09 shipping performance.sql
+│   ├── 10 inventory data quality.sql
+│   ├── 11 create views.sql
+│   ├── 12 performance.sql
+│   ├── 13 data dictionary.sql
+│   └── 14 actionable insights.sql
 └── README.md
 ```
 
