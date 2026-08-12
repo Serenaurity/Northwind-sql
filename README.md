@@ -50,7 +50,7 @@ Northwind-sql/
 │   └── Northwind_LICENSE.txt
 ├── docs/
 │   ├── Northwind_ERD.png
-│   └── data_dictionary.md
+│   └── Northwind Data Dictionary.md
 ├── queries/
 │   ├── 01 setup.sql
 │   ├── 02 data profile.sql
