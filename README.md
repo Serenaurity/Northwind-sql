@@ -118,7 +118,10 @@ Performance checks include:
 - Query execution time
 - `EXPLAIN ANALYZE`
 
-## Actionable Insights
+## Reported sample-data observations
+
+The figures in this section are query outputs for the included Northwind sample
+data. They are not current business metrics or generalizable recommendations.
 
 ### Customer Concentration
 
